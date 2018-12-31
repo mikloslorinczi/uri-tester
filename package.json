@@ -1,0 +1,23 @@
+{
+  "name": "uri-tester",
+  "version": "1.0.0",
+  "description": "uri tester",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikloslorinczi/uri-tester.git"
+  },
+  "author": "Miki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikloslorinczi/uri-tester/issues"
+  },
+  "homepage": "https://github.com/mikloslorinczi/uri-tester#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
